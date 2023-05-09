@@ -3,7 +3,8 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: my_github
-      path: Hubbsy/jfrog-pipelines-simple-example
+      path: Hubbsy/project-examples/jfrog-quickstart-examples
+e
       branches:
         include: master
   - name: myBuildInfo
