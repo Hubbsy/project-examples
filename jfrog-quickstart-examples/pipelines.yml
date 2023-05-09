@@ -4,7 +4,6 @@ resources:
     configuration:
       gitProvider: my_github
       path: Hubbsy/project-examples/jfrog-quickstart-examples
-e
       branches:
         include: master
   - name: myBuildInfo
